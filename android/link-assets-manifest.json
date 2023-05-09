@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Solway-Bold.ttf",
+      "sha1": "bcf1783f4d1cfbf964118605ed36672bc770b6b2"
+    },
+    {
+      "path": "src/assets/fonts/Solway-Regular.ttf",
+      "sha1": "eade525e1c0830cfc333390ba9f34c6e4f991ebb"
+    }
+  ]
+}
