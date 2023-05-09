@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="65px" height="90px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.16572 9.88642"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:0.685162}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="0.342563" y="3.43141" width="6.48055" height="6.11238"/>
+  <path class="fil0 str0" d="M0.342581 3.43138c0.140347,-1.7309 1.54394,-3.0888 3.24028,-3.0888 1.69452,0 3.09734,1.36061 3.24028,3.0888"/>
+  <line class="fil0 str0" x1="3.58286" y1="6.25463" x2="3.58286" y2= "8.15306" />
+  <circle class="fil0 str0" cx="3.58286" cy="5.42031" r="0.856323"/>
+ </g>
+</svg>
