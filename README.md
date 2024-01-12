@@ -18,18 +18,5 @@ Appliaction features / uses:
 ![Screenshot](./images/login.png)
 ![Screenshot](./images/splash.png)
 
-## Technologies
-
-[React Native](https://reactnative.dev)
-
-and
-
-
-- eslint-plugin-react
-- eslint-plugin-react-native
-- React Router
-- SVG support (react-native-svg + react-native-svg-transformer)
-- custom fonts
-- formularze (react-hook-form), validacja (yup)
 
 
