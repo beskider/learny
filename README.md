@@ -10,7 +10,7 @@ Appliaction features / uses:
 - React Router
 - SVG support (react-native-svg + react-native-svg-transformer)
 - custom fonts
-- formularze (react-hook-form), validacja (yup)
+- forms (react-hook-form), form validation (yup)
 
 
 ![Screenshot](./images/onboarding2.png)
